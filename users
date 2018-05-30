@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "name": "Michiel van Berkel",
+    "username": "MvB",
+    "email": "michiel@makona.net",
+    "balance": {
+      "total": "100"
+      "debit": "25",
+      "credit": "75",
+      },
+    "phone": "0612345678",
+    "website": "makona.net",
+    "company": {
+      "name": "Makona.net",
+      "kvk": "123123123"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Niels Visser",
+    "username": "NV",
+    "email": "niels@makona.net",
+    "balance": {
+      "total": "300"
+      "debit": "250",
+      "credit": "50",
+      },
+    "phone": "0612345678",
+    "website": "makona.net",
+    "company": {
+      "name": "Makona.net",
+      "kvk": "123123123"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Jaap Bekooy",
+    "username": "JB",
+    "email": "jaap@makona.net",
+    "balance": {
+      "total": "125"
+      "debit": "35",
+      "credit": "90",
+      },
+    "phone": "0612345678",
+    "website": "makona.net",
+    "company": {
+      "name": "Makona.net",
+      "kvk": "123123123"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Patricia Vermeuelen",
+    "username": "PV",
+    "email": "patricia@makona.net",
+    "balance": {
+      "total": "50"
+      "debit": "25",
+      "credit": "25",
+      },
+    "phone": "0612345678",
+    "website": "makona.net",
+    "company": {
+      "name": "Makona.net",
+      "kvk": "123123123"
+    }
+  },
+]
